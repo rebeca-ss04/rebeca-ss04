@@ -1,14 +1,10 @@
 <h1 align="center">Hola 👋  soy Rebeca  ✨ </h1> 
 
 <header>
-  <h1>Rebeca Simon</h1>
+  <h1>Sobre mi </h1>
   <p>DevOps & QA Engineer | Software Engineer</p>
+  <P>Soy estudiante de Ingeniería en Software con un fuerte enfoque en DevOps e Ingeniería de Aseguramiento de Calidad (QA). Disfruto construir sistemas eficientes y escalables, y mejorar continuamente la calidad del software mediante la automatización y las mejores prácticas.</P>
 </header>
-
-<section>
-  <h2>About Me</h2>
-  <p>I am a Software Engineering student with a strong focus on DevOps and QA Engineering. I enjoy building efficient, scalable systems and continuously improving software quality through automation and best practices.</p>
-</section>
 
 <section>
   <h2>Habilidades</h2>
@@ -41,18 +37,6 @@
   <div class="card">
     <h3>Interactive Theater App</h3>
     <p>Application where the audience interacts with live performances by voting and engaging in real-time.</p>
-  </div>
-</section>
-
-<section>
-  <h2>GitHub</h2>
-  <div style="display:flex; flex-wrap:wrap; gap:20px; align-items:center; justify-content:center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=false" alt="GitHub streak" style="max-width:400px; width:100%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&hide_border=false&layout=compact" alt="Top languages" style="max-width:300px; width:100%;" />
-  </div>
-
-  <div style="margin-top:30px; text-align:center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&row=1&column=6&no-bg=true" alt="GitHub trophies" style="width:90%; max-width:800px;" />
   </div>
 </section>
 
