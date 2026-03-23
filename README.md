@@ -14,20 +14,6 @@
   <h2>Habilidades</h2>
   <div class="skills">
     <img src="https://skillicons.dev/icons?i=python,react,androidstudio,docker,laravel,js,figma,html,css,linux,aws,firebase,mongodb" />
-  </div>
-    <div class="skill">React</div>
-    <div class="skill">Android Studio</div>
-    <div class="skill">Docker</div>
-    <div class="skill">Laravel</div>
-    <div class="skill">JavaScript</div>
-    <div class="skill">Figma</div>
-    <div class="skill">HTML</div>
-    <div class="skill">CSS</div>
-    <div class="skill">Linux</div>
-    <div class="skill">AWS</div>
-    <div class="skill">Firebase</div>
-    <div class="skill">MongoDB</div>
-  </div>
 </section>
 
 <section>
