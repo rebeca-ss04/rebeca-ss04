@@ -20,7 +20,7 @@
   </div>
   <div class="card">
     <h3>QA Engineering</h3>
-    <p>Software testing, automation, quality assurance processes, and continuous integration.</p>
+    <p>Pruebas de software, automatización, procesos de aseguramiento de calidad e integración continua.</p>
   </div>
 </section>
 
@@ -32,11 +32,11 @@
     </div>
   <div class="card">
     <h3>BabyGuard 365</h3>
-    <p>Mobile application for baby monitoring developed using Android Studio with integrated hardware support.</p>
+    <p>Aplicación móvil para monitoreo de bebés desarrollada con Android Studio con soporte integrado de hardware.</p>
   </div>
   <div class="card">
-    <h3>Interactive Theater App</h3>
-    <p>Application where the audience interacts with live performances by voting and engaging in real-time.</p>
+    <h3>Aplicación de teatro interactivo.</h3>
+    <p>Aplicación donde el público interactúa con presentaciones en vivo mediante votaciones y participación en tiempo real.</p>
   </div>
 </section>
 
