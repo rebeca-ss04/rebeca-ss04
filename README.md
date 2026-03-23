@@ -11,9 +11,10 @@
 </section>
 
 <section>
-  <h2>Skills</h2>
+  <h2>Habilidades</h2>
   <div class="skills">
-    <div class="skill">Python</div>
+    <img src="https://skillicons.dev/icons?i=python,react,androidstudio,docker,laravel,js,figma,html,css,linux,aws,firebase,mongodb" />
+  </div>
     <div class="skill">React</div>
     <div class="skill">Android Studio</div>
     <div class="skill">Docker</div>
