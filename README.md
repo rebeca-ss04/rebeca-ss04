@@ -44,6 +44,18 @@
   </div>
 </section>
 
+<section>
+  <h2>GitHub</h2>
+  <div style="display:flex; flex-wrap:wrap; gap:20px; align-items:center; justify-content:center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=false" alt="GitHub streak" style="max-width:400px; width:100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&hide_border=false&layout=compact" alt="Top languages" style="max-width:300px; width:100%;" />
+  </div>
+
+  <div style="margin-top:30px; text-align:center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&row=1&column=6&no-bg=true" alt="GitHub trophies" style="width:90%; max-width:800px;" />
+  </div>
+</section>
+
 <footer>
   <p>© 2026 Rebeca Simon | Portfolio</p>
 </footer>
