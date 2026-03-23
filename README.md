@@ -1,4 +1,4 @@
-## Hola soy Rebeca 👋
+<h1 align="center">Hola 👋  soy Rebeca  ✨ </h1> 
 
 <header>
   <h1>Rebeca Simon</h1>
